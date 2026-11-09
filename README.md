@@ -1,10 +1,15 @@
 # Olá, eu sou João Victor 👋
 
-Estou construindo meu portfólio e desenvolvendo projetos para praticar programação com Python. Gosto de aprender criando aplicações úteis, testáveis e fáceis de executar.
+Sou engenheiro de dados no Itaú Unibanco. Tenho conhecimentos em Java, Python, SQL, AWS e HTML, e uso ferramentas como VS Code no meu dia a dia. Gosto de aprender criando soluções práticas e aprimorando meus conhecimentos em tecnologia.
 
-## 🐍 Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
+- Java
 - Python
+- SQL
+- AWS
+- HTML
+- VS Code
 - Git e GitHub
 - Testes automatizados com `unittest`
 - JSON e CSV
@@ -22,7 +27,7 @@ Estou construindo meu portfólio e desenvolvendo projetos para praticar programa
 
 ## 📚 Sobre os projetos
 
-Os projetos usam a biblioteca padrão do Python e incluem instruções de uso e testes. Estou sempre praticando e aprimorando meu código.
+Meus projetos incluem instruções de uso e testes automatizados. Estou sempre aprendendo e ampliando meu portfólio.
 
 ---
 
